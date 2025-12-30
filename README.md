@@ -53,13 +53,21 @@
 - **📈 Advanced Analytics:** Transforming raw data into strategic insights through **Predictive Modeling**, **Sentiment Analysis**, and interactive **BI Dashboards**.
 
 ---
+<div align="center">
 
 ### 📫 Let's Connect!
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gunerbetul14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
+<a href="https://www.linkedin.com/in/betül-güner-867719219/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gunerbetul14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+
+</div>
